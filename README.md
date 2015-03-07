@@ -1,6 +1,6 @@
 # chatter
 
-FIXME
+No longer fix me
 
 ## Prerequisites
 
@@ -16,4 +16,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 No longer fix me
