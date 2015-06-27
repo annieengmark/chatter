@@ -30,7 +30,7 @@
 (defn update-messages!
   "This will update a message list atom"
   [messages name new-message]
-  (swap! message conj {:name name :message new-message}))
+  (swap! messages conj {:name name :message new-message}))
 
 (defroutes app-routes
   (GET "/" [] (generate-message-view @chat-messages))
