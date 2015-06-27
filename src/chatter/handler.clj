@@ -20,7 +20,7 @@
     [:title "chatter"]
     (page/include-css "//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css")
     (page/include-js "//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js")
-    (page/include-css "//chatter.css")]
+    (page/include-css "/chatter.css")]
 
    [:body
     [:h1 "Our Chat App"]
